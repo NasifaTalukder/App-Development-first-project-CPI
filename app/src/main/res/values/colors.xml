@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="electric">#ff8f00ff</color>
+    <color name="violate">	#ffb200ed</color>
+    <color name="lollipop">#ff810074</color>
+    <color name="hibiscus">#ffb43757</color>
+</resources>
